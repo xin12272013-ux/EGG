@@ -1,8 +1,0 @@
-__pycache__/
-*.pyc
-.DS_Store
-Thumbs.db
-*.log
-_user_meta.json
-output/
-dist/
